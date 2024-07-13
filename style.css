@@ -24,8 +24,8 @@ div#presente{
 img{
     display: block;
     margin: auto;
-    width: 503px;
-    margin-top: 200px;
+    width: 403px;
+    margin-top: 20px;
 }
 
 img#presenteAberto{
@@ -40,7 +40,7 @@ div#carta{
     font-size: 1em;
     text-align: center;
     margin: auto;
-    width: 20vw;
+    width: 90vw;
     box-shadow: 10px 10px 20px black;
     border-radius: 10px;
     padding: 20px;
@@ -51,6 +51,5 @@ div p {
     text-indent: 30px;
     word-spacing: 10px;
     margin-bottom: 4px;
-    background-color: red;
 }
 
