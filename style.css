@@ -24,7 +24,7 @@ div#presente{
 img{
     display: block;
     margin: auto;
-    width: 503px;
+    width: 703px;
     margin-top: 200px;
 }
 
@@ -37,10 +37,10 @@ div#carta{
     background-color: white;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 2em;
+    font-size: 1em;
     text-align: center;
     margin: auto;
-    width: 90vw;
+    width: 80vw;
     box-shadow: 10px 10px 20px black;
     border-radius: 10px;
     padding: 20px;
